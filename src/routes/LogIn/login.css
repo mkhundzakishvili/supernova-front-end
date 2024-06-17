@@ -1,0 +1,22 @@
+.classy-input {
+    /* Basic properties */
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    box-sizing: border-box; 
+  }
+  
+  .classy-input:focus {
+    outline: none;
+    border-color: #999;
+  }
+  .button {
+    padding: 10px 20px;
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+    margin-right: 10px;
+    cursor: pointer;
+  }
